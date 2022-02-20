@@ -5,3 +5,5 @@ output: html_document
 
 About cats
 - cute
+
+![](https://cattitudedaily.com/wp-content/uploads/2021/07/snowshoe-portrait-scaled.jpg)
