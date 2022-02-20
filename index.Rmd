@@ -19,6 +19,8 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+![](https://s36537.pcdn.co/wp-content/uploads/2019/01/Snowshoe-cat-closeup.jpg.optimal.jpg)
+
 ## Including Plots
 
 You can also embed plots, for example:
